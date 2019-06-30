@@ -1,0 +1,31 @@
+{
+  "name": "use-lazy-hooks",
+  "version": "1.0.0",
+  "description": "react hook for resource lazy loading",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe06102/use-lazy-hooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "lazy-loading",
+    "react"
+  ],
+  "author": "joe06102",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joe06102/use-lazy-hooks/issues"
+  },
+  "homepage": "https://github.com/joe06102/use-lazy-hooks#readme",
+  "devDependencies": {
+    "@types/react": "^16.8.22"
+  },
+  "peerDependencies": {
+    "react": "^16.8.6"
+  }
+}

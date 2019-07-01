@@ -7,6 +7,6 @@
     ],
     "outDir": "lib",
     "strict": false,
-    "module": "es6"
+    "module": "commonjs"
   }
 }

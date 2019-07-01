@@ -1,6 +1,6 @@
 {
   "name": "use-lazy-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react hook for resource lazy loading",
   "main": "lib/index.js",
   "scripts": {
